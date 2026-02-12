@@ -3,10 +3,11 @@ import { CampaignService } from './campaign.service';
 
 @Controller('campaign-analytics')
 export class CampaignController {
-  constructor(private readonly service: CampaignService) {}
 
-  @Get('campaign/:campaignId')
-  getCampaign(@Param('campaignId') id: string) {
-    return this.service.getCampaignAnalytics(+id);
-  }
+    constructor(private readonly service: CampaignService) { }
+
+    @Get('campaign/:campaignId')
+    getCampaign(@Param('campaignId') campaignId: string) {
+        return this.service.getCampaignAnalytics(+campaignId);
+    }
 }
