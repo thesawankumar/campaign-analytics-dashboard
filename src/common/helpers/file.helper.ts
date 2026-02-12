@@ -2,18 +2,19 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 export class FileHelper {
-    static readJSON(fileName: string) {
-        const filePath = path.join(process.cwd(), fileName);
-        return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    static readJSON(filePath: string) {
+        const fullPath = path.join(process.cwd(), filePath);
+        return JSON.parse(fs.readFileSync(fullPath, 'utf-8'));
     }
 
     static writeJSON(fileName: string, data: any) {
         const outputDir = path.join(process.cwd(), 'output');
+
         if (!fs.existsSync(outputDir)) {
-            fs.mkdirSync(outputDir);
+            fs.mkdirSync(outputDir, { recursive: true });
         }
 
-        const filePath = path.join(outputDir, fileName);
-        fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+        const fullPath = path.join(outputDir, fileName);
+        fs.writeFileSync(fullPath, JSON.stringify(data, null, 2));
     }
 }
