@@ -19,31 +19,86 @@ export class SeedService {
 
         const campaignOutput: any[] = [];
         const investorOutput: any[] = [];
+        const reportsOutput: any[] = [];
 
-        for (let i = 0; i < 40; i++) {
+        // 🔥 Generate 100 Campaign + Investor records
+        for (let i = 0; i < 100; i++) {
 
             const campaignId = campaigns[i % campaigns.length].id;
             const investorId = investors[i % investors.length].id;
 
+            const analyticsDate = DateUtil.getPastDate(i);
+
             campaignOutput.push({
                 id: i + 1,
-                analytics_date: DateUtil.getPastDate(i),
+                analytics_date: analyticsDate,
                 ...this.campaignService.getCampaignAnalytics(campaignId),
             });
 
             investorOutput.push({
                 id: i + 1,
-                insight_date: DateUtil.getPastDate(i),
+                insight_date: analyticsDate,
                 ...this.investorService.getInvestorInsights(investorId),
             });
         }
 
+        // 🔥 Write first two files
         FileHelper.writeJSON('campaign-analytics.json', campaignOutput);
         FileHelper.writeJSON('investor-insights.json', investorOutput);
 
+        // 🔥 Generate 100 Reports
+        for (let i = 0; i < 100; i++) {
+
+            const type = i % 2 === 0 ? 'campaign' : 'investor';
+
+            const start = DateUtil.getPastDate(90);
+            const end = DateUtil.getPastDate(0);
+
+            const sourceData =
+                type === 'campaign'
+                    ? campaignOutput
+                    : investorOutput;
+
+            const filtered = sourceData.filter(r => {
+                const date = r.analytics_date || r.insight_date;
+                return date >= start && date <= end;
+            });
+
+            const totalAmount = filtered.reduce(
+                (sum, r) =>
+                    sum +
+                    (type === 'campaign'
+                        ? r.total_amount_raised
+                        : r.total_investment_amount),
+                0
+            );
+
+            reportsOutput.push({
+                id: i + 1,
+                report_name: `${type.toUpperCase()} Report #${i + 1}`,
+                report_type: type,
+                generated_by: 1,
+                report_period_start: start,
+                report_period_end: end,
+                report_data: {
+                    summary: {
+                        total_records: filtered.length,
+                        total_amount: totalAmount,
+                    },
+                    details: [],
+                },
+                export_file_url: null,
+                generated_at: new Date().toISOString(),
+            });
+        }
+
+        FileHelper.writeJSON('analytics-reports.json', reportsOutput);
+
         return {
-            campaignAnalytics: 40,
-            investorInsights: 40,
+            campaignAnalytics: 100,
+            investorInsights: 100,
+            reports: 100,
         };
     }
+
 }
