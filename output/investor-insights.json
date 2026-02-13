@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "insight_date": "2026-02-12",
+    "insight_date": "2026-02-13",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "insight_date": "2026-02-11",
+    "insight_date": "2026-02-12",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "insight_date": "2026-02-10",
+    "insight_date": "2026-02-11",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "insight_date": "2026-02-09",
+    "insight_date": "2026-02-10",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "insight_date": "2026-02-08",
+    "insight_date": "2026-02-09",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "insight_date": "2026-02-07",
+    "insight_date": "2026-02-08",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "insight_date": "2026-02-06",
+    "insight_date": "2026-02-07",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "insight_date": "2026-02-05",
+    "insight_date": "2026-02-06",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "insight_date": "2026-02-04",
+    "insight_date": "2026-02-05",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -109,7 +109,7 @@
   },
   {
     "id": 10,
-    "insight_date": "2026-02-03",
+    "insight_date": "2026-02-04",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "insight_date": "2026-02-02",
+    "insight_date": "2026-02-03",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -133,7 +133,7 @@
   },
   {
     "id": 12,
-    "insight_date": "2026-02-01",
+    "insight_date": "2026-02-02",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -145,7 +145,7 @@
   },
   {
     "id": 13,
-    "insight_date": "2026-01-31",
+    "insight_date": "2026-02-01",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -157,7 +157,7 @@
   },
   {
     "id": 14,
-    "insight_date": "2026-01-30",
+    "insight_date": "2026-01-31",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -169,7 +169,7 @@
   },
   {
     "id": 15,
-    "insight_date": "2026-01-29",
+    "insight_date": "2026-01-30",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -181,7 +181,7 @@
   },
   {
     "id": 16,
-    "insight_date": "2026-01-28",
+    "insight_date": "2026-01-29",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -193,7 +193,7 @@
   },
   {
     "id": 17,
-    "insight_date": "2026-01-27",
+    "insight_date": "2026-01-28",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -205,7 +205,7 @@
   },
   {
     "id": 18,
-    "insight_date": "2026-01-26",
+    "insight_date": "2026-01-27",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -217,7 +217,7 @@
   },
   {
     "id": 19,
-    "insight_date": "2026-01-25",
+    "insight_date": "2026-01-26",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "insight_date": "2026-01-24",
+    "insight_date": "2026-01-25",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -241,7 +241,7 @@
   },
   {
     "id": 21,
-    "insight_date": "2026-01-23",
+    "insight_date": "2026-01-24",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -253,7 +253,7 @@
   },
   {
     "id": 22,
-    "insight_date": "2026-01-22",
+    "insight_date": "2026-01-23",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -265,7 +265,7 @@
   },
   {
     "id": 23,
-    "insight_date": "2026-01-21",
+    "insight_date": "2026-01-22",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -277,7 +277,7 @@
   },
   {
     "id": 24,
-    "insight_date": "2026-01-20",
+    "insight_date": "2026-01-21",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -289,7 +289,7 @@
   },
   {
     "id": 25,
-    "insight_date": "2026-01-19",
+    "insight_date": "2026-01-20",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -301,7 +301,7 @@
   },
   {
     "id": 26,
-    "insight_date": "2026-01-18",
+    "insight_date": "2026-01-19",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -313,7 +313,7 @@
   },
   {
     "id": 27,
-    "insight_date": "2026-01-17",
+    "insight_date": "2026-01-18",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -325,7 +325,7 @@
   },
   {
     "id": 28,
-    "insight_date": "2026-01-16",
+    "insight_date": "2026-01-17",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -337,7 +337,7 @@
   },
   {
     "id": 29,
-    "insight_date": "2026-01-15",
+    "insight_date": "2026-01-16",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -349,7 +349,7 @@
   },
   {
     "id": 30,
-    "insight_date": "2026-01-14",
+    "insight_date": "2026-01-15",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -361,7 +361,7 @@
   },
   {
     "id": 31,
-    "insight_date": "2026-01-13",
+    "insight_date": "2026-01-14",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -373,7 +373,7 @@
   },
   {
     "id": 32,
-    "insight_date": "2026-01-12",
+    "insight_date": "2026-01-13",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -385,7 +385,7 @@
   },
   {
     "id": 33,
-    "insight_date": "2026-01-11",
+    "insight_date": "2026-01-12",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -397,7 +397,7 @@
   },
   {
     "id": 34,
-    "insight_date": "2026-01-10",
+    "insight_date": "2026-01-11",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -409,7 +409,7 @@
   },
   {
     "id": 35,
-    "insight_date": "2026-01-09",
+    "insight_date": "2026-01-10",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -421,7 +421,7 @@
   },
   {
     "id": 36,
-    "insight_date": "2026-01-08",
+    "insight_date": "2026-01-09",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -433,7 +433,7 @@
   },
   {
     "id": 37,
-    "insight_date": "2026-01-07",
+    "insight_date": "2026-01-08",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -445,7 +445,7 @@
   },
   {
     "id": 38,
-    "insight_date": "2026-01-06",
+    "insight_date": "2026-01-07",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -457,7 +457,7 @@
   },
   {
     "id": 39,
-    "insight_date": "2026-01-05",
+    "insight_date": "2026-01-06",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -469,7 +469,7 @@
   },
   {
     "id": 40,
-    "insight_date": "2026-01-04",
+    "insight_date": "2026-01-05",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -481,7 +481,7 @@
   },
   {
     "id": 41,
-    "insight_date": "2026-01-03",
+    "insight_date": "2026-01-04",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "insight_date": "2026-01-02",
+    "insight_date": "2026-01-03",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -505,7 +505,7 @@
   },
   {
     "id": 43,
-    "insight_date": "2026-01-01",
+    "insight_date": "2026-01-02",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -517,7 +517,7 @@
   },
   {
     "id": 44,
-    "insight_date": "2025-12-31",
+    "insight_date": "2026-01-01",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -529,7 +529,7 @@
   },
   {
     "id": 45,
-    "insight_date": "2025-12-30",
+    "insight_date": "2025-12-31",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -541,7 +541,7 @@
   },
   {
     "id": 46,
-    "insight_date": "2025-12-29",
+    "insight_date": "2025-12-30",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -553,7 +553,7 @@
   },
   {
     "id": 47,
-    "insight_date": "2025-12-28",
+    "insight_date": "2025-12-29",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -565,7 +565,7 @@
   },
   {
     "id": 48,
-    "insight_date": "2025-12-27",
+    "insight_date": "2025-12-28",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -577,7 +577,7 @@
   },
   {
     "id": 49,
-    "insight_date": "2025-12-26",
+    "insight_date": "2025-12-27",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -589,7 +589,7 @@
   },
   {
     "id": 50,
-    "insight_date": "2025-12-25",
+    "insight_date": "2025-12-26",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -601,7 +601,7 @@
   },
   {
     "id": 51,
-    "insight_date": "2025-12-24",
+    "insight_date": "2025-12-25",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -613,7 +613,7 @@
   },
   {
     "id": 52,
-    "insight_date": "2025-12-23",
+    "insight_date": "2025-12-24",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -625,7 +625,7 @@
   },
   {
     "id": 53,
-    "insight_date": "2025-12-22",
+    "insight_date": "2025-12-23",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -637,7 +637,7 @@
   },
   {
     "id": 54,
-    "insight_date": "2025-12-21",
+    "insight_date": "2025-12-22",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -649,7 +649,7 @@
   },
   {
     "id": 55,
-    "insight_date": "2025-12-20",
+    "insight_date": "2025-12-21",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -661,7 +661,7 @@
   },
   {
     "id": 56,
-    "insight_date": "2025-12-19",
+    "insight_date": "2025-12-20",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -673,7 +673,7 @@
   },
   {
     "id": 57,
-    "insight_date": "2025-12-18",
+    "insight_date": "2025-12-19",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -685,7 +685,7 @@
   },
   {
     "id": 58,
-    "insight_date": "2025-12-17",
+    "insight_date": "2025-12-18",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -697,7 +697,7 @@
   },
   {
     "id": 59,
-    "insight_date": "2025-12-16",
+    "insight_date": "2025-12-17",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -709,7 +709,7 @@
   },
   {
     "id": 60,
-    "insight_date": "2025-12-15",
+    "insight_date": "2025-12-16",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -721,7 +721,7 @@
   },
   {
     "id": 61,
-    "insight_date": "2025-12-14",
+    "insight_date": "2025-12-15",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -733,7 +733,7 @@
   },
   {
     "id": 62,
-    "insight_date": "2025-12-13",
+    "insight_date": "2025-12-14",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -745,7 +745,7 @@
   },
   {
     "id": 63,
-    "insight_date": "2025-12-12",
+    "insight_date": "2025-12-13",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -757,7 +757,7 @@
   },
   {
     "id": 64,
-    "insight_date": "2025-12-11",
+    "insight_date": "2025-12-12",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -769,7 +769,7 @@
   },
   {
     "id": 65,
-    "insight_date": "2025-12-10",
+    "insight_date": "2025-12-11",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -781,7 +781,7 @@
   },
   {
     "id": 66,
-    "insight_date": "2025-12-09",
+    "insight_date": "2025-12-10",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -793,7 +793,7 @@
   },
   {
     "id": 67,
-    "insight_date": "2025-12-08",
+    "insight_date": "2025-12-09",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -805,7 +805,7 @@
   },
   {
     "id": 68,
-    "insight_date": "2025-12-07",
+    "insight_date": "2025-12-08",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -817,7 +817,7 @@
   },
   {
     "id": 69,
-    "insight_date": "2025-12-06",
+    "insight_date": "2025-12-07",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -829,7 +829,7 @@
   },
   {
     "id": 70,
-    "insight_date": "2025-12-05",
+    "insight_date": "2025-12-06",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -841,7 +841,7 @@
   },
   {
     "id": 71,
-    "insight_date": "2025-12-04",
+    "insight_date": "2025-12-05",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -853,7 +853,7 @@
   },
   {
     "id": 72,
-    "insight_date": "2025-12-03",
+    "insight_date": "2025-12-04",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -865,7 +865,7 @@
   },
   {
     "id": 73,
-    "insight_date": "2025-12-02",
+    "insight_date": "2025-12-03",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -877,7 +877,7 @@
   },
   {
     "id": 74,
-    "insight_date": "2025-12-01",
+    "insight_date": "2025-12-02",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -889,7 +889,7 @@
   },
   {
     "id": 75,
-    "insight_date": "2025-11-30",
+    "insight_date": "2025-12-01",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -901,7 +901,7 @@
   },
   {
     "id": 76,
-    "insight_date": "2025-11-29",
+    "insight_date": "2025-11-30",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -913,7 +913,7 @@
   },
   {
     "id": 77,
-    "insight_date": "2025-11-28",
+    "insight_date": "2025-11-29",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -925,7 +925,7 @@
   },
   {
     "id": 78,
-    "insight_date": "2025-11-27",
+    "insight_date": "2025-11-28",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -937,7 +937,7 @@
   },
   {
     "id": 79,
-    "insight_date": "2025-11-26",
+    "insight_date": "2025-11-27",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -949,7 +949,7 @@
   },
   {
     "id": 80,
-    "insight_date": "2025-11-25",
+    "insight_date": "2025-11-26",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -961,7 +961,7 @@
   },
   {
     "id": 81,
-    "insight_date": "2025-11-24",
+    "insight_date": "2025-11-25",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -973,7 +973,7 @@
   },
   {
     "id": 82,
-    "insight_date": "2025-11-23",
+    "insight_date": "2025-11-24",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -985,7 +985,7 @@
   },
   {
     "id": 83,
-    "insight_date": "2025-11-22",
+    "insight_date": "2025-11-23",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -997,7 +997,7 @@
   },
   {
     "id": 84,
-    "insight_date": "2025-11-21",
+    "insight_date": "2025-11-22",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 85,
-    "insight_date": "2025-11-20",
+    "insight_date": "2025-11-21",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 86,
-    "insight_date": "2025-11-19",
+    "insight_date": "2025-11-20",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 87,
-    "insight_date": "2025-11-18",
+    "insight_date": "2025-11-19",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 88,
-    "insight_date": "2025-11-17",
+    "insight_date": "2025-11-18",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 89,
-    "insight_date": "2025-11-16",
+    "insight_date": "2025-11-17",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -1069,7 +1069,7 @@
   },
   {
     "id": 90,
-    "insight_date": "2025-11-15",
+    "insight_date": "2025-11-16",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 91,
-    "insight_date": "2025-11-14",
+    "insight_date": "2025-11-15",
     "investor_id": 1,
     "total_investments": 6,
     "total_investment_amount": 1260000,
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 92,
-    "insight_date": "2025-11-13",
+    "insight_date": "2025-11-14",
     "investor_id": 2,
     "total_investments": 3,
     "total_investment_amount": 1100000,
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 93,
-    "insight_date": "2025-11-12",
+    "insight_date": "2025-11-13",
     "investor_id": 3,
     "total_investments": 4,
     "total_investment_amount": 830000,
@@ -1117,7 +1117,7 @@
   },
   {
     "id": 94,
-    "insight_date": "2025-11-11",
+    "insight_date": "2025-11-12",
     "investor_id": 4,
     "total_investments": 4,
     "total_investment_amount": 980000,
@@ -1129,7 +1129,7 @@
   },
   {
     "id": 95,
-    "insight_date": "2025-11-10",
+    "insight_date": "2025-11-11",
     "investor_id": 5,
     "total_investments": 5,
     "total_investment_amount": 1280000,
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 96,
-    "insight_date": "2025-11-09",
+    "insight_date": "2025-11-10",
     "investor_id": 6,
     "total_investments": 6,
     "total_investment_amount": 1745000,
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 97,
-    "insight_date": "2025-11-08",
+    "insight_date": "2025-11-09",
     "investor_id": 7,
     "total_investments": 7,
     "total_investment_amount": 1550000,
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 98,
-    "insight_date": "2025-11-07",
+    "insight_date": "2025-11-08",
     "investor_id": 8,
     "total_investments": 6,
     "total_investment_amount": 1790000,
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 99,
-    "insight_date": "2025-11-06",
+    "insight_date": "2025-11-07",
     "investor_id": 9,
     "total_investments": 5,
     "total_investment_amount": 1525000,
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 100,
-    "insight_date": "2025-11-05",
+    "insight_date": "2025-11-06",
     "investor_id": 10,
     "total_investments": 4,
     "total_investment_amount": 1245000,

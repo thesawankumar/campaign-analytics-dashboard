@@ -43,8 +43,8 @@ export class SeedService {
         }
 
         // 🔥 Write first two files
-        FileHelper.writeJSON('campaign-analytics.json', campaignOutput);
-        FileHelper.writeJSON('investor-insights.json', investorOutput);
+        FileHelper.writeJSON('output/campaign-analytics.json', campaignOutput);
+        FileHelper.writeJSON('output/investor-insights.json', investorOutput);
 
         // 🔥 Generate 100 Reports
         for (let i = 0; i < 100; i++) {
@@ -92,7 +92,8 @@ export class SeedService {
             });
         }
 
-        FileHelper.writeJSON('analytics-reports.json', reportsOutput);
+        FileHelper.writeJSON('output/analytics-reports.json', reportsOutput);
+
 
         return {
             campaignAnalytics: 100,

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "analytics_date": "2026-02-12",
+    "analytics_date": "2026-02-13",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "analytics_date": "2026-02-11",
+    "analytics_date": "2026-02-12",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "analytics_date": "2026-02-10",
+    "analytics_date": "2026-02-11",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "analytics_date": "2026-02-09",
+    "analytics_date": "2026-02-10",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "analytics_date": "2026-02-08",
+    "analytics_date": "2026-02-09",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "analytics_date": "2026-02-07",
+    "analytics_date": "2026-02-08",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "analytics_date": "2026-02-06",
+    "analytics_date": "2026-02-07",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "analytics_date": "2026-02-05",
+    "analytics_date": "2026-02-06",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "analytics_date": "2026-02-04",
+    "analytics_date": "2026-02-05",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "analytics_date": "2026-02-03",
+    "analytics_date": "2026-02-04",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "analytics_date": "2026-02-02",
+    "analytics_date": "2026-02-03",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "analytics_date": "2026-02-01",
+    "analytics_date": "2026-02-02",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "analytics_date": "2026-01-31",
+    "analytics_date": "2026-02-01",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "analytics_date": "2026-01-30",
+    "analytics_date": "2026-01-31",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "analytics_date": "2026-01-29",
+    "analytics_date": "2026-01-30",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "analytics_date": "2026-01-28",
+    "analytics_date": "2026-01-29",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -161,7 +161,7 @@
   },
   {
     "id": 17,
-    "analytics_date": "2026-01-27",
+    "analytics_date": "2026-01-28",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "analytics_date": "2026-01-26",
+    "analytics_date": "2026-01-27",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -181,7 +181,7 @@
   },
   {
     "id": 19,
-    "analytics_date": "2026-01-25",
+    "analytics_date": "2026-01-26",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -191,7 +191,7 @@
   },
   {
     "id": 20,
-    "analytics_date": "2026-01-24",
+    "analytics_date": "2026-01-25",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "analytics_date": "2026-01-23",
+    "analytics_date": "2026-01-24",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -211,7 +211,7 @@
   },
   {
     "id": 22,
-    "analytics_date": "2026-01-22",
+    "analytics_date": "2026-01-23",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "analytics_date": "2026-01-21",
+    "analytics_date": "2026-01-22",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -231,7 +231,7 @@
   },
   {
     "id": 24,
-    "analytics_date": "2026-01-20",
+    "analytics_date": "2026-01-21",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "analytics_date": "2026-01-19",
+    "analytics_date": "2026-01-20",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "analytics_date": "2026-01-18",
+    "analytics_date": "2026-01-19",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -261,7 +261,7 @@
   },
   {
     "id": 27,
-    "analytics_date": "2026-01-17",
+    "analytics_date": "2026-01-18",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -271,7 +271,7 @@
   },
   {
     "id": 28,
-    "analytics_date": "2026-01-16",
+    "analytics_date": "2026-01-17",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -281,7 +281,7 @@
   },
   {
     "id": 29,
-    "analytics_date": "2026-01-15",
+    "analytics_date": "2026-01-16",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "analytics_date": "2026-01-14",
+    "analytics_date": "2026-01-15",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -301,7 +301,7 @@
   },
   {
     "id": 31,
-    "analytics_date": "2026-01-13",
+    "analytics_date": "2026-01-14",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -311,7 +311,7 @@
   },
   {
     "id": 32,
-    "analytics_date": "2026-01-12",
+    "analytics_date": "2026-01-13",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -321,7 +321,7 @@
   },
   {
     "id": 33,
-    "analytics_date": "2026-01-11",
+    "analytics_date": "2026-01-12",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -331,7 +331,7 @@
   },
   {
     "id": 34,
-    "analytics_date": "2026-01-10",
+    "analytics_date": "2026-01-11",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -341,7 +341,7 @@
   },
   {
     "id": 35,
-    "analytics_date": "2026-01-09",
+    "analytics_date": "2026-01-10",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -351,7 +351,7 @@
   },
   {
     "id": 36,
-    "analytics_date": "2026-01-08",
+    "analytics_date": "2026-01-09",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -361,7 +361,7 @@
   },
   {
     "id": 37,
-    "analytics_date": "2026-01-07",
+    "analytics_date": "2026-01-08",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -371,7 +371,7 @@
   },
   {
     "id": 38,
-    "analytics_date": "2026-01-06",
+    "analytics_date": "2026-01-07",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -381,7 +381,7 @@
   },
   {
     "id": 39,
-    "analytics_date": "2026-01-05",
+    "analytics_date": "2026-01-06",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -391,7 +391,7 @@
   },
   {
     "id": 40,
-    "analytics_date": "2026-01-04",
+    "analytics_date": "2026-01-05",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -401,7 +401,7 @@
   },
   {
     "id": 41,
-    "analytics_date": "2026-01-03",
+    "analytics_date": "2026-01-04",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -411,7 +411,7 @@
   },
   {
     "id": 42,
-    "analytics_date": "2026-01-02",
+    "analytics_date": "2026-01-03",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -421,7 +421,7 @@
   },
   {
     "id": 43,
-    "analytics_date": "2026-01-01",
+    "analytics_date": "2026-01-02",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -431,7 +431,7 @@
   },
   {
     "id": 44,
-    "analytics_date": "2025-12-31",
+    "analytics_date": "2026-01-01",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -441,7 +441,7 @@
   },
   {
     "id": 45,
-    "analytics_date": "2025-12-30",
+    "analytics_date": "2025-12-31",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -451,7 +451,7 @@
   },
   {
     "id": 46,
-    "analytics_date": "2025-12-29",
+    "analytics_date": "2025-12-30",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -461,7 +461,7 @@
   },
   {
     "id": 47,
-    "analytics_date": "2025-12-28",
+    "analytics_date": "2025-12-29",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -471,7 +471,7 @@
   },
   {
     "id": 48,
-    "analytics_date": "2025-12-27",
+    "analytics_date": "2025-12-28",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -481,7 +481,7 @@
   },
   {
     "id": 49,
-    "analytics_date": "2025-12-26",
+    "analytics_date": "2025-12-27",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -491,7 +491,7 @@
   },
   {
     "id": 50,
-    "analytics_date": "2025-12-25",
+    "analytics_date": "2025-12-26",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -501,7 +501,7 @@
   },
   {
     "id": 51,
-    "analytics_date": "2025-12-24",
+    "analytics_date": "2025-12-25",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -511,7 +511,7 @@
   },
   {
     "id": 52,
-    "analytics_date": "2025-12-23",
+    "analytics_date": "2025-12-24",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -521,7 +521,7 @@
   },
   {
     "id": 53,
-    "analytics_date": "2025-12-22",
+    "analytics_date": "2025-12-23",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -531,7 +531,7 @@
   },
   {
     "id": 54,
-    "analytics_date": "2025-12-21",
+    "analytics_date": "2025-12-22",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -541,7 +541,7 @@
   },
   {
     "id": 55,
-    "analytics_date": "2025-12-20",
+    "analytics_date": "2025-12-21",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -551,7 +551,7 @@
   },
   {
     "id": 56,
-    "analytics_date": "2025-12-19",
+    "analytics_date": "2025-12-20",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -561,7 +561,7 @@
   },
   {
     "id": 57,
-    "analytics_date": "2025-12-18",
+    "analytics_date": "2025-12-19",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -571,7 +571,7 @@
   },
   {
     "id": 58,
-    "analytics_date": "2025-12-17",
+    "analytics_date": "2025-12-18",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -581,7 +581,7 @@
   },
   {
     "id": 59,
-    "analytics_date": "2025-12-16",
+    "analytics_date": "2025-12-17",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -591,7 +591,7 @@
   },
   {
     "id": 60,
-    "analytics_date": "2025-12-15",
+    "analytics_date": "2025-12-16",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -601,7 +601,7 @@
   },
   {
     "id": 61,
-    "analytics_date": "2025-12-14",
+    "analytics_date": "2025-12-15",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -611,7 +611,7 @@
   },
   {
     "id": 62,
-    "analytics_date": "2025-12-13",
+    "analytics_date": "2025-12-14",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -621,7 +621,7 @@
   },
   {
     "id": 63,
-    "analytics_date": "2025-12-12",
+    "analytics_date": "2025-12-13",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -631,7 +631,7 @@
   },
   {
     "id": 64,
-    "analytics_date": "2025-12-11",
+    "analytics_date": "2025-12-12",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -641,7 +641,7 @@
   },
   {
     "id": 65,
-    "analytics_date": "2025-12-10",
+    "analytics_date": "2025-12-11",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -651,7 +651,7 @@
   },
   {
     "id": 66,
-    "analytics_date": "2025-12-09",
+    "analytics_date": "2025-12-10",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -661,7 +661,7 @@
   },
   {
     "id": 67,
-    "analytics_date": "2025-12-08",
+    "analytics_date": "2025-12-09",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -671,7 +671,7 @@
   },
   {
     "id": 68,
-    "analytics_date": "2025-12-07",
+    "analytics_date": "2025-12-08",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -681,7 +681,7 @@
   },
   {
     "id": 69,
-    "analytics_date": "2025-12-06",
+    "analytics_date": "2025-12-07",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -691,7 +691,7 @@
   },
   {
     "id": 70,
-    "analytics_date": "2025-12-05",
+    "analytics_date": "2025-12-06",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -701,7 +701,7 @@
   },
   {
     "id": 71,
-    "analytics_date": "2025-12-04",
+    "analytics_date": "2025-12-05",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -711,7 +711,7 @@
   },
   {
     "id": 72,
-    "analytics_date": "2025-12-03",
+    "analytics_date": "2025-12-04",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -721,7 +721,7 @@
   },
   {
     "id": 73,
-    "analytics_date": "2025-12-02",
+    "analytics_date": "2025-12-03",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -731,7 +731,7 @@
   },
   {
     "id": 74,
-    "analytics_date": "2025-12-01",
+    "analytics_date": "2025-12-02",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -741,7 +741,7 @@
   },
   {
     "id": 75,
-    "analytics_date": "2025-11-30",
+    "analytics_date": "2025-12-01",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -751,7 +751,7 @@
   },
   {
     "id": 76,
-    "analytics_date": "2025-11-29",
+    "analytics_date": "2025-11-30",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -761,7 +761,7 @@
   },
   {
     "id": 77,
-    "analytics_date": "2025-11-28",
+    "analytics_date": "2025-11-29",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -771,7 +771,7 @@
   },
   {
     "id": 78,
-    "analytics_date": "2025-11-27",
+    "analytics_date": "2025-11-28",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -781,7 +781,7 @@
   },
   {
     "id": 79,
-    "analytics_date": "2025-11-26",
+    "analytics_date": "2025-11-27",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -791,7 +791,7 @@
   },
   {
     "id": 80,
-    "analytics_date": "2025-11-25",
+    "analytics_date": "2025-11-26",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -801,7 +801,7 @@
   },
   {
     "id": 81,
-    "analytics_date": "2025-11-24",
+    "analytics_date": "2025-11-25",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -811,7 +811,7 @@
   },
   {
     "id": 82,
-    "analytics_date": "2025-11-23",
+    "analytics_date": "2025-11-24",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -821,7 +821,7 @@
   },
   {
     "id": 83,
-    "analytics_date": "2025-11-22",
+    "analytics_date": "2025-11-23",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -831,7 +831,7 @@
   },
   {
     "id": 84,
-    "analytics_date": "2025-11-21",
+    "analytics_date": "2025-11-22",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -841,7 +841,7 @@
   },
   {
     "id": 85,
-    "analytics_date": "2025-11-20",
+    "analytics_date": "2025-11-21",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -851,7 +851,7 @@
   },
   {
     "id": 86,
-    "analytics_date": "2025-11-19",
+    "analytics_date": "2025-11-20",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -861,7 +861,7 @@
   },
   {
     "id": 87,
-    "analytics_date": "2025-11-18",
+    "analytics_date": "2025-11-19",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -871,7 +871,7 @@
   },
   {
     "id": 88,
-    "analytics_date": "2025-11-17",
+    "analytics_date": "2025-11-18",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -881,7 +881,7 @@
   },
   {
     "id": 89,
-    "analytics_date": "2025-11-16",
+    "analytics_date": "2025-11-17",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -891,7 +891,7 @@
   },
   {
     "id": 90,
-    "analytics_date": "2025-11-15",
+    "analytics_date": "2025-11-16",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,
@@ -901,7 +901,7 @@
   },
   {
     "id": 91,
-    "analytics_date": "2025-11-14",
+    "analytics_date": "2025-11-15",
     "campaign_id": 1,
     "total_investors": 7,
     "total_amount_raised": 940000,
@@ -911,7 +911,7 @@
   },
   {
     "id": 92,
-    "analytics_date": "2025-11-13",
+    "analytics_date": "2025-11-14",
     "campaign_id": 2,
     "total_investors": 6,
     "total_amount_raised": 1080000,
@@ -921,7 +921,7 @@
   },
   {
     "id": 93,
-    "analytics_date": "2025-11-12",
+    "analytics_date": "2025-11-13",
     "campaign_id": 3,
     "total_investors": 6,
     "total_amount_raised": 840000,
@@ -931,7 +931,7 @@
   },
   {
     "id": 94,
-    "analytics_date": "2025-11-11",
+    "analytics_date": "2025-11-12",
     "campaign_id": 4,
     "total_investors": 6,
     "total_amount_raised": 3230000,
@@ -941,7 +941,7 @@
   },
   {
     "id": 95,
-    "analytics_date": "2025-11-10",
+    "analytics_date": "2025-11-11",
     "campaign_id": 5,
     "total_investors": 5,
     "total_amount_raised": 1220000,
@@ -951,7 +951,7 @@
   },
   {
     "id": 96,
-    "analytics_date": "2025-11-09",
+    "analytics_date": "2025-11-10",
     "campaign_id": 6,
     "total_investors": 4,
     "total_amount_raised": 1530000,
@@ -961,7 +961,7 @@
   },
   {
     "id": 97,
-    "analytics_date": "2025-11-08",
+    "analytics_date": "2025-11-09",
     "campaign_id": 7,
     "total_investors": 4,
     "total_amount_raised": 1030000,
@@ -971,7 +971,7 @@
   },
   {
     "id": 98,
-    "analytics_date": "2025-11-07",
+    "analytics_date": "2025-11-08",
     "campaign_id": 8,
     "total_investors": 4,
     "total_amount_raised": 1180000,
@@ -981,7 +981,7 @@
   },
   {
     "id": 99,
-    "analytics_date": "2025-11-06",
+    "analytics_date": "2025-11-07",
     "campaign_id": 9,
     "total_investors": 4,
     "total_amount_raised": 1680000,
@@ -991,7 +991,7 @@
   },
   {
     "id": 100,
-    "analytics_date": "2025-11-05",
+    "analytics_date": "2025-11-06",
     "campaign_id": 10,
     "total_investors": 3,
     "total_amount_raised": 575000,

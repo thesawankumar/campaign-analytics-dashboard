@@ -4,8 +4,8 @@
     "report_name": "CAMPAIGN Report #1",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -14,15 +14,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.463Z"
+    "generated_at": "2026-02-13T12:28:39.169Z"
   },
   {
     "id": 2,
     "report_name": "INVESTOR Report #2",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -31,15 +31,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.463Z"
+    "generated_at": "2026-02-13T12:28:39.169Z"
   },
   {
     "id": 3,
     "report_name": "CAMPAIGN Report #3",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -48,15 +48,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.463Z"
+    "generated_at": "2026-02-13T12:28:39.169Z"
   },
   {
     "id": 4,
     "report_name": "INVESTOR Report #4",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -65,15 +65,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.463Z"
+    "generated_at": "2026-02-13T12:28:39.169Z"
   },
   {
     "id": 5,
     "report_name": "CAMPAIGN Report #5",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -82,15 +82,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.463Z"
+    "generated_at": "2026-02-13T12:28:39.169Z"
   },
   {
     "id": 6,
     "report_name": "INVESTOR Report #6",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -99,15 +99,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.463Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 7,
     "report_name": "CAMPAIGN Report #7",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -116,15 +116,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 8,
     "report_name": "INVESTOR Report #8",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -133,15 +133,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 9,
     "report_name": "CAMPAIGN Report #9",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -150,15 +150,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 10,
     "report_name": "INVESTOR Report #10",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -167,15 +167,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 11,
     "report_name": "CAMPAIGN Report #11",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -184,15 +184,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 12,
     "report_name": "INVESTOR Report #12",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -201,15 +201,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 13,
     "report_name": "CAMPAIGN Report #13",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -218,15 +218,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.170Z"
   },
   {
     "id": 14,
     "report_name": "INVESTOR Report #14",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -235,15 +235,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 15,
     "report_name": "CAMPAIGN Report #15",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -252,15 +252,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 16,
     "report_name": "INVESTOR Report #16",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -269,15 +269,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 17,
     "report_name": "CAMPAIGN Report #17",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -286,15 +286,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 18,
     "report_name": "INVESTOR Report #18",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -303,15 +303,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 19,
     "report_name": "CAMPAIGN Report #19",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -320,15 +320,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 20,
     "report_name": "INVESTOR Report #20",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -337,15 +337,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 21,
     "report_name": "CAMPAIGN Report #21",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -354,15 +354,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 22,
     "report_name": "INVESTOR Report #22",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -371,15 +371,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 23,
     "report_name": "CAMPAIGN Report #23",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -388,15 +388,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 24,
     "report_name": "INVESTOR Report #24",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -405,15 +405,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 25,
     "report_name": "CAMPAIGN Report #25",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -422,15 +422,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 26,
     "report_name": "INVESTOR Report #26",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -439,15 +439,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.464Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 27,
     "report_name": "CAMPAIGN Report #27",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -456,15 +456,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 28,
     "report_name": "INVESTOR Report #28",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -473,15 +473,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 29,
     "report_name": "CAMPAIGN Report #29",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -490,15 +490,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 30,
     "report_name": "INVESTOR Report #30",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -507,15 +507,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 31,
     "report_name": "CAMPAIGN Report #31",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -524,15 +524,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 32,
     "report_name": "INVESTOR Report #32",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -541,15 +541,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 33,
     "report_name": "CAMPAIGN Report #33",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -558,15 +558,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.171Z"
   },
   {
     "id": 34,
     "report_name": "INVESTOR Report #34",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -575,15 +575,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 35,
     "report_name": "CAMPAIGN Report #35",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -592,15 +592,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 36,
     "report_name": "INVESTOR Report #36",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -609,15 +609,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 37,
     "report_name": "CAMPAIGN Report #37",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -626,15 +626,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 38,
     "report_name": "INVESTOR Report #38",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -643,15 +643,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 39,
     "report_name": "CAMPAIGN Report #39",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -660,15 +660,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 40,
     "report_name": "INVESTOR Report #40",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -677,15 +677,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 41,
     "report_name": "CAMPAIGN Report #41",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -694,15 +694,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 42,
     "report_name": "INVESTOR Report #42",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -711,15 +711,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.172Z"
   },
   {
     "id": 43,
     "report_name": "CAMPAIGN Report #43",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -728,15 +728,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 44,
     "report_name": "INVESTOR Report #44",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -745,15 +745,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 45,
     "report_name": "CAMPAIGN Report #45",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -762,15 +762,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.465Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 46,
     "report_name": "INVESTOR Report #46",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -779,15 +779,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 47,
     "report_name": "CAMPAIGN Report #47",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -796,15 +796,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 48,
     "report_name": "INVESTOR Report #48",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -813,15 +813,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 49,
     "report_name": "CAMPAIGN Report #49",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -830,15 +830,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 50,
     "report_name": "INVESTOR Report #50",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -847,15 +847,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 51,
     "report_name": "CAMPAIGN Report #51",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -864,15 +864,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 52,
     "report_name": "INVESTOR Report #52",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -881,15 +881,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 53,
     "report_name": "CAMPAIGN Report #53",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -898,15 +898,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 54,
     "report_name": "INVESTOR Report #54",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -915,15 +915,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 55,
     "report_name": "CAMPAIGN Report #55",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -932,15 +932,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 56,
     "report_name": "INVESTOR Report #56",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -949,15 +949,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 57,
     "report_name": "CAMPAIGN Report #57",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -966,15 +966,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 58,
     "report_name": "INVESTOR Report #58",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -983,15 +983,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 59,
     "report_name": "CAMPAIGN Report #59",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1000,15 +1000,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 60,
     "report_name": "INVESTOR Report #60",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1017,15 +1017,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 61,
     "report_name": "CAMPAIGN Report #61",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1034,15 +1034,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 62,
     "report_name": "INVESTOR Report #62",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1051,15 +1051,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 63,
     "report_name": "CAMPAIGN Report #63",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1068,15 +1068,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 64,
     "report_name": "INVESTOR Report #64",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1085,15 +1085,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.173Z"
   },
   {
     "id": 65,
     "report_name": "CAMPAIGN Report #65",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1102,15 +1102,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 66,
     "report_name": "INVESTOR Report #66",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1119,15 +1119,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 67,
     "report_name": "CAMPAIGN Report #67",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1136,15 +1136,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 68,
     "report_name": "INVESTOR Report #68",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1153,15 +1153,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 69,
     "report_name": "CAMPAIGN Report #69",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1170,15 +1170,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 70,
     "report_name": "INVESTOR Report #70",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1187,15 +1187,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 71,
     "report_name": "CAMPAIGN Report #71",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1204,15 +1204,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 72,
     "report_name": "INVESTOR Report #72",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1221,15 +1221,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 73,
     "report_name": "CAMPAIGN Report #73",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1238,15 +1238,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 74,
     "report_name": "INVESTOR Report #74",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1255,15 +1255,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 75,
     "report_name": "CAMPAIGN Report #75",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1272,15 +1272,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 76,
     "report_name": "INVESTOR Report #76",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1289,15 +1289,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 77,
     "report_name": "CAMPAIGN Report #77",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1306,15 +1306,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 78,
     "report_name": "INVESTOR Report #78",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1323,15 +1323,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 79,
     "report_name": "CAMPAIGN Report #79",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1340,15 +1340,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 80,
     "report_name": "INVESTOR Report #80",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1357,15 +1357,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 81,
     "report_name": "CAMPAIGN Report #81",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1374,15 +1374,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 82,
     "report_name": "INVESTOR Report #82",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1391,15 +1391,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 83,
     "report_name": "CAMPAIGN Report #83",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1408,15 +1408,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 84,
     "report_name": "INVESTOR Report #84",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1425,15 +1425,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 85,
     "report_name": "CAMPAIGN Report #85",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1442,15 +1442,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 86,
     "report_name": "INVESTOR Report #86",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1459,15 +1459,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 87,
     "report_name": "CAMPAIGN Report #87",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1476,15 +1476,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 88,
     "report_name": "INVESTOR Report #88",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1493,15 +1493,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.174Z"
   },
   {
     "id": 89,
     "report_name": "CAMPAIGN Report #89",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1510,15 +1510,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 90,
     "report_name": "INVESTOR Report #90",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1527,15 +1527,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 91,
     "report_name": "CAMPAIGN Report #91",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1544,15 +1544,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 92,
     "report_name": "INVESTOR Report #92",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1561,15 +1561,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 93,
     "report_name": "CAMPAIGN Report #93",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1578,15 +1578,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 94,
     "report_name": "INVESTOR Report #94",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1595,15 +1595,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.466Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 95,
     "report_name": "CAMPAIGN Report #95",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1612,15 +1612,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.467Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 96,
     "report_name": "INVESTOR Report #96",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1629,15 +1629,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.467Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 97,
     "report_name": "CAMPAIGN Report #97",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1646,15 +1646,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.467Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 98,
     "report_name": "INVESTOR Report #98",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1663,15 +1663,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.467Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 99,
     "report_name": "CAMPAIGN Report #99",
     "report_type": "campaign",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1680,15 +1680,15 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.467Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   },
   {
     "id": 100,
     "report_name": "INVESTOR Report #100",
     "report_type": "investor",
     "generated_by": 1,
-    "report_period_start": "2025-11-14",
-    "report_period_end": "2026-02-12",
+    "report_period_start": "2025-11-15",
+    "report_period_end": "2026-02-13",
     "report_data": {
       "summary": {
         "total_records": 91,
@@ -1697,6 +1697,6 @@
       "details": []
     },
     "export_file_url": null,
-    "generated_at": "2026-02-12T12:32:15.467Z"
+    "generated_at": "2026-02-13T12:28:39.175Z"
   }
 ]

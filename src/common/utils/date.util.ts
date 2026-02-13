@@ -4,4 +4,11 @@ export class DateUtil {
         date.setDate(date.getDate() - daysAgo);
         return date.toISOString().split('T')[0];
     }
+    static getToday(): string {
+        return new Date().toISOString().split('T')[0];
+    }
+
+
 }
+
+
