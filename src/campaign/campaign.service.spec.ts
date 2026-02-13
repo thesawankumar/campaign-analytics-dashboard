@@ -8,7 +8,7 @@ describe('CampaignService', () => {
         service = new CampaignService();
     });
 
-    it('should calculate campaign analytics correctly', () => {
+    it('should calculate campaign analytics correctly ', () => {
         const result = service.getCampaignAnalytics(1);
 
         expect(result).toHaveProperty('campaign_id');
