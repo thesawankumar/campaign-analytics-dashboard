@@ -362,23 +362,7 @@ FileHelper centralizes file read/write logic.
 
 Controllers → Services → Helpers separation maintained.
 
----
 
-# 🔮 Production Improvements (Future Scope)
-
-If production-grade system:
-
-* Replace JSON with PostgreSQL
-* Add Redis caching
-* Add background jobs (BullMQ)
-* Add JWT Authentication
-* Add Role-based Authorization
-* Add pagination
-* Add Winston logging
-* Add centralized error handling
-* Add CI/CD pipeline
-
----
 
 # 📌 Assessment Compliance
 
